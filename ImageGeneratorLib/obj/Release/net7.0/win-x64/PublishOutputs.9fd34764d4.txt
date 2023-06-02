@@ -1,0 +1,6 @@
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\ImageGeneratorLib.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\ImageGeneratorLib.deps.json
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\ImageGeneratorLib.pdb
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\SixLabors.ImageSharp.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Release\net7.0\publish\win-x64\System.Drawing.Common.dll

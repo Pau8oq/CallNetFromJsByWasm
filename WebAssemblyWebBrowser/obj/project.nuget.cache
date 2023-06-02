@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "te1euctGnn9UP6V+wUUr8ATjMt5yeVGLa6hd/pmogV7Ihj1gaGI+dN8uhXg4R2ah+5eoZq1Zl8TIe3aimYuvYg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Blazor\\CallNetFromJsByWasm\\WebAssemblyWebBrowser\\WebAssemblyWebBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

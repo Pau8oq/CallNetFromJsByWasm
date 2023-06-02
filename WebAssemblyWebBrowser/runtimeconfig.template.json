@@ -1,0 +1,21 @@
+{
+  "wasmHostProperties": {
+    "perHostConfig": [
+      {
+        "name": "browser",
+        "html-path": "index.html",
+        "Host": "browser"
+      }
+    ],
+    "runtimeOptions": {
+      "configProperties": {
+        "System.Drawing.EnableUnixSupport": true
+      }
+    }
+  },
+  "runtimeOptions": {
+    "configProperties": {
+      "System.Drawing.EnableUnixSupport": true
+    }
+  }
+}

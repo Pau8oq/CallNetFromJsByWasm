@@ -1,0 +1,12 @@
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Debug\net7.0\ImageGeneratorLib.deps.json
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Debug\net7.0\ImageGeneratorLib.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\bin\Debug\net7.0\ImageGeneratorLib.pdb
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.csproj.AssemblyReference.cache
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.AssemblyInfoInputs.cache
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.AssemblyInfo.cs
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.csproj.CoreCompileInputs.cache
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\refint\ImageGeneratorLib.dll
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ImageGeneratorLib.pdb
+D:\Project\Blazor\CallNetFromJsByWasm\ImageGeneratorLib\obj\Debug\net7.0\ref\ImageGeneratorLib.dll
